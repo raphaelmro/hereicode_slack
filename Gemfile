@@ -50,6 +50,8 @@ group :development, :test do
   gem 'rspec', '~> 3.7'
   gem 'rspec-rails', '~> 3.5'
   gem 'byebug', platform: :mri
+  gem 'better_errors'
+  gem 'binding_of_caller'
 end
 
 group :development do
