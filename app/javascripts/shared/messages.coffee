@@ -57,4 +57,4 @@ window.add = (slug, id, type) ->
                                         '<i class="material-icons" id="' + id + '">settings</i>' +
                                     '</a>' +
                                 '</div>' +
-                            '</li>')
+'</li>')
